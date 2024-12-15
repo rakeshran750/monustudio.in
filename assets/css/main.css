@@ -747,13 +747,12 @@ section,
 .section {
   color: var(--default-color);
   background-color: var(--background-color);
-  padding: 60px 0;
-  scroll-margin-top: 92px;
+  padding: 50px 0;
+  scroll-margin-top: 50px;
   overflow: clip;
 }
 
 @media (max-width: 1199px) {
-
   section,
   .section {
     scroll-margin-top: 56px;
@@ -765,7 +764,7 @@ section,
 --------------------------------------------------------------*/
 .section-title {
   text-align: center;
-  padding-bottom: 60px;
+  padding-bottom: 10px;
   position: relative;
 }
 
